@@ -2,7 +2,11 @@
 using namespace std;
 int main() {
 
-	cout<<"hello fucking world!!";
+	cout<<"hello  world!!";
+	cout<<"hello world";
+	cout<<"anshit";
+	cout<<"hello sirish";
+	cout<<"hello world!!";
 	return 0;
 
 	}
