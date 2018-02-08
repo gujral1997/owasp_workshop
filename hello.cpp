@@ -1,8 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
+  
+cout<<"hello world";
+cout<<"shivam bansal";
 
-	cout<<"shivam bansal";
-	return 0;
+cout<<"hello world!!";
+return 0;
 
 	}
